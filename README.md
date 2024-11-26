@@ -2,8 +2,8 @@
 
 <table>
   <a href="https://github.com/matsudanick)">
-  <https://github-readme-stats.vercel.app/api?username=matsudanick&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <https://github-readme-stats.vercel.app/api?username=matsudanick&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matsudanick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsudanick&layout=compact&langs_count=6&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsudanick&theme=gotham&show_icons=true&hide_border=true&layout=compact"/>
   <img src="https://img.icons8.com/color/2x/python.png" width="120" alt="Python">
 </table>
