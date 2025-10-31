@@ -19,4 +19,4 @@
 - [Site Pessoal (HTML/CSS)
 - [Sistema de Estoque (Python + SQLite)
 
-📫 **Contato:** [LinkedIn](https://linkedin.com/in/nicolasmatsuda)
+📫 **Contato:** [LinkedIn](https://linkedin.com/in/matsudanick)
