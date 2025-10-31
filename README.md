@@ -2,7 +2,7 @@
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas na UMC  
 🚀 Apaixonado por tecnologia, automação e desenvolvimento  
-📚 Aprendendo Python, Java e COBOL  
+📚 Aprendendo Cloud, Java e SQL  
 🌐 Buscando oportunidades para crescer na área de desenvolvimento
 
 ## 🧠 Tecnologias que estou estudando:
