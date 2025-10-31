@@ -11,6 +11,8 @@
 - HTML / CSS
 - Git e GitHub
 - Banco de Dados (SQLite)
+- Cloud Security
+- AWS
 
 ## ⚙️ Projetos:
 - [Automação de Cadastro (Python)](link)
