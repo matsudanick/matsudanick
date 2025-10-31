@@ -15,8 +15,8 @@
 - AWS
 
 ## ⚙️ Projetos:
-- [Automação de Cadastro (Python)](link)
-- [Site Pessoal (HTML/CSS)](link)
-- [Sistema de Estoque (Python + SQLite)](link)
+- [Automação de Cadastro (Python)
+- [Site Pessoal (HTML/CSS)
+- [Sistema de Estoque (Python + SQLite)
 
 📫 **Contato:** [LinkedIn](https://linkedin.com/in/nicolasmatsuda)
