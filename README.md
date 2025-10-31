@@ -15,8 +15,8 @@
 - AWS
 
 ## ⚙️ Projetos:
-- [Automação de Cadastro (Python)
-- [Site Pessoal (HTML/CSS)
-- [Sistema de Estoque (Python + SQLite)
+- [Automação de Cadastro (Python)]
+- [Site Pessoal (HTML/CSS)]
+- [Sistema de Estoque (Python + SQLite)]
 
 📫 **Contato:** [LinkedIn](https://linkedin.com/in/matsudanick)
